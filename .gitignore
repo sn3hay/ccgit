@@ -2,3 +2,6 @@ ccgit
 *.exe
 *.out
 *.log
+*.idea
+__pycache__
+
